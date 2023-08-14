@@ -1,1 +1,4 @@
-
+The model is created for four algorithms.
+They are Naive Bayes,Random Forest,Deep Neural Network(DNN),XGBoost.
+The data is split into train and test set and fed to the model.
+The output is measured with appropriate metrics and visual representation is done.
