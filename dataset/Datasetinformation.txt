@@ -1,1 +1,4 @@
+The dataset used is the NSL-KDD dataset which is a new version data set of the KDD'99 data set. It is an effective benchmark dataset which helps compare different intrusion detection methods. It consists of a training dataset with 125973 rows and 42 columns and a testing dataset with 22543 rows and 42 columns.
+The dataset used is the phishing_site_urls.csv dataset. The data contains 5,49,346 entries.There are two columns.The Label column is the prediction column which has 2 categories: ‘Good’ which means the URLs is not containing malicious stuff and the site is not a Phishing Site and ‘Bad’which means the URLs contains malicious stuff and the site is a Phishing Site. There are no missing values in the dataset.
+
 
