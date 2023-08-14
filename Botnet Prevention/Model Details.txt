@@ -1,1 +1,2 @@
-
+The dataset is split into train and test set and fed to the logistic regression model.
+The output is measured using different metrics and visualized.
